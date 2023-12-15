@@ -16,7 +16,7 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulou
 
 [Linkedin](https://fr.linkedin.com/in/axel-penacq-a3078a224) 
 
-[Par eMail](mailto:axelpenacq@gmail.com) : axelpenacq@gmail.com
+axelpenacq@gmail.com
 
 
 
