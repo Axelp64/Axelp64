@@ -6,8 +6,7 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulou
 
 **Création de dashboards pour le gestion/management de l'entreprise**
 
-    Logiciels/langages :
-
+- Logiciels/langages :
     - Power BI
         - DAX
         - M
