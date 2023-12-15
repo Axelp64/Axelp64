@@ -4,7 +4,7 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulou
 
 ## Projet
 
-- **Web app pour la DataVisualisation des crimes à Los Angeles** : [GitHub](https://github.com/Axelp64/CrimesLA)
+- **Web app pour la DataVisualisation des crimes à Los Angeles** : [CrimesLA](https://github.com/Axelp64/CrimesLA)
 
 ## Enseignements suivis 
 
