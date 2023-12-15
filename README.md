@@ -12,6 +12,13 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulou
 - *R*
 - *R-Shiny*
 
+## Contactez-moi 
+
+[Linkedin](https://fr.linkedin.com/in/axel-penacq-a3078a224) 
+
+[Par eMail](mailto:axelpenacq@gmail.com)
+
+
 
 <!--
 **Axelp64/Axelp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
