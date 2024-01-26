@@ -14,8 +14,10 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulou
 
 
 ## Projet Scolaire
-
-- **Web app pour la DataVisualisation des crimes à Los Angeles** : [CrimesLA](https://github.com/Axelp64/CrimesLA)
+# Développement d'application web en Rshiny :
+- **DataVisualisation des crimes à Los Angeles** : [CrimesLA](https://github.com/Axelp64/CrimesLA)
+- **DataVisualisation d'avis internet du monde entier. Application fait en collaboration** : [ShopperSentiments](https://github.com/Axelp64/Dashboard-RShinny-ShopperSentiments)
+- **DataVisualisation de statistiques sur les données Spotify** : [SpotifyStreams](...)
 
 ## Enseignements suivis 
 
