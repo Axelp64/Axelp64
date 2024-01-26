@@ -1,6 +1,6 @@
 ### Bonjour ! 👋
 
-Je suis Axel Penacq, actuellement étudiant en Master 1 à l'IA School de Toulouse et en alternance à [Safran Electrical & Power](https://www.safran-group.com/fr/societes/safran-electrical-power) en tant que Data Analyst depuis septembre 2022.
+Je suis Axel Penacq, actuellement étudiant en Master 1 à l'[IA School](https://www.intelligence-artificielle-school.com/) de Toulouse et en alternance à [Safran Electrical & Power](https://www.safran-group.com/fr/societes/safran-electrical-power) en tant que Data Analyst depuis septembre 2022.
 
 ## Projets Professionnels 
 
