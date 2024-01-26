@@ -7,13 +7,15 @@ Je suis Axel Penacq, actuellement étudiant en Master 1 à l'[IA School](https:/
 
 **Création de dashboards pour le gestion/management de l'entreprise**
 
-Au cours de mes expériences professionnelles, j'ai travaillé sur la création de dashboards utilisant des outils tels que Power BI. Maîtrisant le langage DAX pour les calculs et le langage M pour le traitement des données, j'ai également une solide compétence en SQL pour la gestion des bases de données.
+Au cours de mes expériences professionnelles, j'ai travaillé sur la création de dashboards utilisant des outils tels que Power BI. Maîtrisant le langage DAX pour les calculs et le langage M pour le traitement des données, j'ai également une solide compétence en SQL pour la gestion des bases de données. 
+J'ai eu l'occasion de maîtriser le langage VBA for Excel durant un stage de 4 mois.
 
 - Logiciels/langages :
     - Power BI 📊
         - DAX 📈
         - M 🔄
     - SQL 🛢️
+    - VBA 🖋️
 
 
 ## Projet Scolaire
